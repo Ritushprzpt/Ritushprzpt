@@ -7,7 +7,7 @@ Web development, Python, React, and machine learning concepts.<br><br>⚡ **Fun 
 I enjoy building applications that make complex data easy to understand!
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ritush-prajapati) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://twitter.com/your-profile) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/your-profile) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5722.svg?logo=web&logoColor=white)](https://yourportfolio.com)
